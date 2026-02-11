@@ -18,43 +18,43 @@ img {
     width: 30%;
 }
 nav {
-  background-color: #4a90e2;
+  background-color: #e5921d;
   padding: 1em;
 
   grid-area: nav;
 }
 
 header {
-  background-color: #50e3c2;
+  background-color: #067e64df;
   padding: 1em;
 
   grid-area: header;
 }
 
 main {
-  background-color: #f5a623;
+  background-color: #211fcd;
   padding: 1em;
 
   grid-area: main;
 }
 
 aside {
-  background-color: #b8e986;
+  background-color: #1eb952d6;
   padding: 1em;
 
   grid-area: aside;
 }
 
 footer {
-  background-color: #d0021b;
+  background-color: #b51785;
   padding: 1em;
-  color: white;
+  color: rgb(50, 13, 184);
 
   grid-area: footer;
 }
 
 section {
-  background-color: #edd2a7;
+  background-color: #4ed429d4;
   padding: 3%;
 }
 
@@ -70,7 +70,7 @@ form {
 }
 
 fieldset {
-  background-color: #edd2a7;
+  background-color: #30d8b1;
   margin: 0.2rem;
 }
 
