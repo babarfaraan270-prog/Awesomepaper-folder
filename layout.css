@@ -20,8 +20,8 @@ img {
 nav {
   background-color: #e5921d;
   padding: 1em;
-
   grid-area: nav;
+  justify-content: center;
 }
 
 header {
@@ -30,6 +30,13 @@ header {
 
   grid-area: header;
 }
+
+.grid-container {
+  display: grid;
+  justify-items: center;
+  
+}
+
 
 main {
   background-color: #211fcd;
